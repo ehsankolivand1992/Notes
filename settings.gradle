@@ -1,0 +1,2 @@
+rootProject.name = "MVVM dagger RxJava Room"
+include ':app'
